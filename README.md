@@ -1,5 +1,8 @@
 # Celestial-bodies-detection
 
+Transfer learning with an Inception v3 architecture model using TensorFlow used to classify images from Planet (Earth, Mercury, Mars,
+etc), Galaxy (Spiral, Elliptical, Irregular), Satellites, Comets, Etc
+
 ## Setup
 
 #### Tensorflow
